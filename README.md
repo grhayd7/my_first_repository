@@ -9,3 +9,5 @@ Important steps for git workflow:
 4. Stage changes for commit
 5. Commit changes to version history
 6. Review previous changes with git log
+
+#Can make edits directly from GitHub. Not recommended. 
